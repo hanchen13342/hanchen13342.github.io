@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>博客 on Shijin&#39;s Blog</title>
+    <link>https://shijin.fun/categories/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on Shijin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
+    <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
+    <copyright>Copyright &amp;copy;2019-{year}, Shijin All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 16:30:30 +0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://shijin.fun/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      
+      <item>
+        <title>Hexo迁移到Hugo</title>
+        <link>https://shijin.fun/posts/hexo-move-hugo/</link>
+        <pubDate>Sat, 25 Apr 2020 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        <atom:modified>Sat, 25 Apr 2020 16:30:30 +0800</atom:modified>
+        <guid>https://shijin.fun/posts/hexo-move-hugo/</guid>
+        <description>前几天完成了hexo向hugo的迁移，记录一下过程。 1. 原因 hugo比hexo更快，文章多后就会有差异 hugo是用go写的，正好我正准备学习g</description>
+        
+        <dc:creator>世今</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+            
+              <category>博客</category>
+            
+        
+        
+      </item>
+      
+      <item>
+        <title>Hexo&#43;GitHub搭建博客</title>
+        <link>https://shijin.fun/posts/hexo-github/</link>
+        <pubDate>Tue, 08 Oct 2019 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        <atom:modified>Tue, 08 Oct 2019 16:30:30 +0800</atom:modified>
+        <guid>https://shijin.fun/posts/hexo-github/</guid>
+        <description>在国庆前一个星期，我准备自己写一个博客网站，于是在网上查了一下怎么写才好，本来想自己一步步的来，但是看了一下网上一些比较好的博客网站，发现他</description>
+        
+        <dc:creator>世今</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hexo</category>
+            
+          
+            
+              <category>github</category>
+            
+          
+        
+        
+            
+              <category>博客</category>
+            
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

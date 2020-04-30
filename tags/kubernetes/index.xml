@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>kubernetes on Shijin&#39;s Blog</title>
+    <link>https://SJiaman.github.io/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on Shijin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
+    <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 13 Aug 2018 16:30:30 +0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://SJiaman.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      
+      <item>
+        <title>数据包在 Istio 网格中的生命周期（下）</title>
+        <link>https://SJiaman.github.io/posts/where-is-the-request-2/</link>
+        <pubDate>Mon, 13 Aug 2018 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        <atom:modified>Mon, 13 Aug 2018 16:30:30 +0800</atom:modified>
+        <guid>https://SJiaman.github.io/posts/where-is-the-request-2/</guid>
+        <description>书接前文，上文我们通过跟踪集群外通过 ingressgateway 发起的请求来探寻流量在 Istio 服务网格之间的流动方向，先部署 bookinfo 示例应用，然后创建一个监听在 ingressgateway 上的 GateWay 和 Virt</description>
+        
+        <dc:creator>米开朗基杨</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>istio</category>
+            
+          
+            
+              <category>service mesh</category>
+            
+          
+            
+              <category>kubernetes</category>
+            
+          
+        
+        
+            
+              <category>service mesh</category>
+            
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

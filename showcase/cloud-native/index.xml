@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>云原生 on Shijin&#39;s Blog</title>
+    <link>https://SJiaman.github.io/showcase/cloud-native/</link>
+    <description>Recent content in 云原生 on Shijin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
+    <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://SJiaman.github.io/showcase/cloud-native/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      
+      <item>
+        <title>Kubernetes 一键安装</title>
+        <link>https://SJiaman.github.io/showcase/cloud-native/sealos/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://SJiaman.github.io/showcase/cloud-native/sealos/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Prometheus 中文文档</title>
+        <link>https://SJiaman.github.io/showcase/cloud-native/prometheus-handbook/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://SJiaman.github.io/showcase/cloud-native/prometheus-handbook/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

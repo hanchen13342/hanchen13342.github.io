@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Excel on Shijin&#39;s Blog</title>
+    <link>https://shijin.fun/tags/excel/</link>
+    <description>Recent content in Excel on Shijin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
+    <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
+    <copyright>Copyright &amp;copy;2019-{year}, Shijin All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 06 Mar 2020 16:30:30 +0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://shijin.fun/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      
+      <item>
+        <title>Python简单处理excel</title>
+        <link>https://shijin.fun/posts/python-excel/</link>
+        <pubDate>Fri, 06 Mar 2020 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        <atom:modified>Fri, 06 Mar 2020 16:30:30 +0800</atom:modified>
+        <guid>https://shijin.fun/posts/python-excel/</guid>
+        <description>1.引言 平时经常处理一些Excel文件，小的文件直接用Excel处理还行，大的文件，可以试着用python来处理，相对比较方便，而且pyth</description>
+        
+        <dc:creator>世今</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Excel</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+            
+              <category>python</category>
+            
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
